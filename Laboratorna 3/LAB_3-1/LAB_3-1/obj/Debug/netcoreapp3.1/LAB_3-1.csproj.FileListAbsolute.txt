@@ -1,0 +1,11 @@
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.exe
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.deps.json
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.runtimeconfig.json
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.runtimeconfig.dev.json
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.dll
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\bin\Debug\netcoreapp3.1\LAB_3-1.pdb
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\obj\Debug\netcoreapp3.1\LAB_3-1.csprojAssemblyReference.cache
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\obj\Debug\netcoreapp3.1\LAB_3-1.AssemblyInfoInputs.cache
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\obj\Debug\netcoreapp3.1\LAB_3-1.AssemblyInfo.cs
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\obj\Debug\netcoreapp3.1\LAB_3-1.dll
+C:\Users\Vasia\source\repos\LAB_3-1\LAB_3-1\obj\Debug\netcoreapp3.1\LAB_3-1.pdb
