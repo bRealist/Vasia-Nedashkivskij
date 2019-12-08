@@ -1,0 +1,11 @@
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.exe
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.deps.json
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.runtimeconfig.json
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.runtimeconfig.dev.json
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.dll
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\bin\Debug\netcoreapp3.1\LAB2_8.pdb
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\obj\Debug\netcoreapp3.1\LAB2_8.csprojAssemblyReference.cache
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\obj\Debug\netcoreapp3.1\LAB2_8.AssemblyInfoInputs.cache
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\obj\Debug\netcoreapp3.1\LAB2_8.AssemblyInfo.cs
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\obj\Debug\netcoreapp3.1\LAB2_8.dll
+C:\Users\Vasia\source\repos\LAB2_8\LAB2_8\obj\Debug\netcoreapp3.1\LAB2_8.pdb
